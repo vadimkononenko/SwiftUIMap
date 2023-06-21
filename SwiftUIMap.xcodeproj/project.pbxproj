@@ -15,6 +15,7 @@
 		A77BD01B2A418D3900160896 /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77BD01A2A418D3900160896 /* LocationsView.swift */; };
 		A77BD01D2A4196D900160896 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77BD01C2A4196D900160896 /* LocationsViewModel.swift */; };
 		A77BD01F2A41A62600160896 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77BD01E2A41A62600160896 /* LocationsListView.swift */; };
+		A79820432A41C54900310CB5 /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79820422A41C54900310CB5 /* LocationPreviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A77BD01A2A418D3900160896 /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		A77BD01C2A4196D900160896 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 		A77BD01E2A41A62600160896 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
+		A79820422A41C54900310CB5 /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				A77BD01A2A418D3900160896 /* LocationsView.swift */,
 				A77BD01E2A41A62600160896 /* LocationsListView.swift */,
+				A79820422A41C54900310CB5 /* LocationPreviewView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				A77BD01D2A4196D900160896 /* LocationsViewModel.swift in Sources */,
 				A77BD0032A418C8700160896 /* SwiftUIMapApp.swift in Sources */,
 				A77BD01B2A418D3900160896 /* LocationsView.swift in Sources */,
+				A79820432A41C54900310CB5 /* LocationPreviewView.swift in Sources */,
 				A77BD0192A418CEA00160896 /* Location.swift in Sources */,
 				A77BD0172A418CE000160896 /* LocationsDataService.swift in Sources */,
 			);
